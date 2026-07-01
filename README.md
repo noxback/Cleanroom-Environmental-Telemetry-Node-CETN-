@@ -29,7 +29,7 @@ Current Tasks
 
 - [x] Project planning
 - [x] Repository creation
-- [ ] Requirements definition
+- [x] Requirements definition
 - [ ] Component selection
 - [ ] System architecture
 - [ ] Breadboard prototype
