@@ -1,6 +1,6 @@
 # WEEK 1
 ## week 1 goal
-set up repository and defien project scope
+Set up repository and define project scope
 
 ## Accomplishments
 - Created Github Repository
