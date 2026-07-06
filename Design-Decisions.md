@@ -14,13 +14,13 @@ Tradeoffs:
 - Slightly steeper learning curve
 - More GPIO and features than required for Version 1
 
-#DD-002: Why BME280?
+## DD-002: Why BME280?
 1. Uses I^2C.
 2. Good Accuracy.
 3. Low Power.
 4. Low cost
 
-#DD-003: OLED vs. LCD
+## DD-003: OLED vs. LCD
 
 Decision: 
 OLED
