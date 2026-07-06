@@ -13,3 +13,17 @@ The ESP32 provides integrated Wi-Fi, significantly more memory, faster processin
 Tradeoffs:
 - Slightly steeper learning curve
 - More GPIO and features than required for Version 1
+
+#DD-002: Why BME280?
+1. Uses I^2C.
+2. Good Accuracy.
+3. Low Power.
+4. Low cost
+
+#DD-003: OLED vs. LCD
+
+Decision: 
+OLED
+
+Resoning: 
+It seems to be better quality for a cheaper price. 
